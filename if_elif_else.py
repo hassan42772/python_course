@@ -1,20 +1,20 @@
-# value1=56
-# value2=96
-# print("please enter the number")
+value1=56
+value2=96
+print("please enter the number")
 
-# value3=int(input())
-# if value3>value1:
-#     print("greater")
-# elif value3==value1:
-#     print("equal")
-# else:
-#     print("lesser")   
-# list=[1,2,3,4,5]
-# print(2 in list)
-# if 10 in list:
-#     print("present")
-# else:
-#     print("no")
+value3=int(input())
+if value3>value1:
+     print("greater")
+elif value3==value1:
+    print("equal")
+else:
+    print("lesser")   
+list=[1,2,3,4,5]
+print(2 in list)
+if 10 in list:
+    print("present")
+else:
+    print("no")
 
 # print("TELL YOU AGE")
 # age=int(input())
